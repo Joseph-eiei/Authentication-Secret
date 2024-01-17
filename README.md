@@ -59,7 +59,7 @@ PG_PORT=your_pg_port
 ```
 
 6. **Add Google OAuth Credentials:**
-- Obtain your Google OAuth 2.0 Client ID and Client Secret by creating a project on the [Google Cloud Console](#https://console.cloud.google.com/).
+- Obtain your Google OAuth 2.0 Client ID and Client Secret by creating a project on the [Google Cloud Console](https://console.cloud.google.com/).
 - Update the ```.env``` file with your Google Client ID and Client Secret:
 ```
 GOOGLE_CLIENT_ID=your-client-id
@@ -72,7 +72,7 @@ node index.js
 ```
 
 8. **Open in Your Browser:**
-- Visit [localhost:3000](#http://localhost:3000) and share your secret!
+- Visit [localhost:3000](http://localhost:3000/) and share your secret!
 
 **Feel free to use, share, and explore. Happy coding! 🚀**
 
